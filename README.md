@@ -1,1 +1,2 @@
 # cleaning-assemblies
+Very basic, first-draft python scripts for identifying subsets of contigs in one assembly that are present in contigs of a second assembly, masking out bases that match certain criteria, returning two sets of contigs: (1) matches between the two assemblies; (2) sequences that are unique to both assemblies, that hopefully can be re-assembled and merged back into contigs from (1)
